@@ -1,0 +1,22 @@
+input {
+    font-size: 34px;
+    border: 5px solid green;
+    border-radius: 21px;
+    height: 65px;
+    
+    width: 456px;
+    }
+    button {
+    background: #978fa0;
+    width: 102PX;
+    height: 90px;
+    margin: 6px;
+    font-size: 40px;
+    border-radius: 20px;
+    }
+    .calculator {
+    background-color: #ff99f7;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+    }
